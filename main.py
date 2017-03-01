@@ -1,5 +1,5 @@
 #! python3
-# 50StatesQuizCreator.py - Creates quizzes with questions and answers in random order, along with the answer key.
+# 50StatesQuizCreator.py - Creates multiple-choice quizzes and answer sheets about the 50 US states.
 
 import random,sys
 
